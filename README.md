@@ -1,5 +1,5 @@
 # ddos
-Ddos tool 
+En güçlü ddos
 
 Merhaba arkadaşlar,
 
